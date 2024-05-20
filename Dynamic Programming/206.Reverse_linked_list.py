@@ -29,5 +29,3 @@ head.next.next.next.next = Node(5)
 
 reversed_linked_list = reverseLinkedList(head)
 print_linked_list(reversed_linked_list)
-
-
