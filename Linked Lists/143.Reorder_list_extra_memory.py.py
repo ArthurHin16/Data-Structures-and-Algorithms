@@ -11,7 +11,6 @@ class Node():
         self.next = None
 
 def reorderList(head):
-
     linked_values = []
     curr = head
     while curr:
