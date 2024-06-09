@@ -12,5 +12,5 @@ def rotate(matrix):
     transpose_matrix = list(map(list, zip(*matrix)))
     return transpose_matrix
 
-matrix = [[1,2,3],[4,5,6]]
+matrix = [[1,2,3],[4,5,6],[7,8,9]]
 print(rotate(matrix))
